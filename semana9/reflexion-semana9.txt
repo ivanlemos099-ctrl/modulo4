@@ -1,1 +1,18 @@
 ¿Por qué es importante que las plataformas tecnológicas que usan las comunidades funcionen de manera estable y segura en un servidor?
+¿Por qué la estabilidad es vital?
+La estabilidad asegura que la herramienta esté disponible y funcione correctamente cuando la comunidad la necesita.
+
+Continuidad de la participación: Muchos procesos comunitarios tienen tiempos definidos (votaciones, cierres de encuestas, plazos de entrega). Si el servidor falla en un momento crítico, se interrumpe el ejercicio democrático o colaborativo, lo que genera frustración y desánimo entre los participantes.
+
+Experiencia de usuario confiable: Una plataforma que "se cae" constantemente o que es lenta proyecta una imagen de falta de profesionalismo, lo que puede causar que los miembros de la comunidad abandonen la herramienta y busquen otros canales menos organizados.
+
+Integridad de los datos durante procesos: La inestabilidad puede causar errores en la escritura de datos (por ejemplo, que un voto o un comentario no se registre correctamente). En procesos participativos, el registro fiel de cada aporte es innegociable.
+
+2. ¿Por qué la seguridad es vital?
+La seguridad protege la voz, la identidad y la integridad de los miembros de la comunidad.
+
+Protección contra la manipulación: Sin medidas de seguridad robustas en el servidor, actores externos podrían alterar los resultados de decisiones colectivas o suplantar identidades, invalidando el propósito de la plataforma.
+
+Salvaguarda de datos personales: Las comunidades comparten información que puede ser sensible. Un servidor seguro aplica cifrado y controles de acceso que impiden que los datos sean robados o expuestos, cumpliendo con la responsabilidad ética y legal de proteger la privacidad.
+
+Resiliencia ante ataques: Las plataformas participativas son blancos comunes de ataques (como los DDoS, que saturan el servidor para dejarlo fuera de servicio). Un servidor seguro cuenta con defensas para resistir estas agresiones y mantenerse operativo.
