@@ -1,1 +1,4 @@
 ¿Por qué la seguridad digital es importante para proteger plataformas tecnológicas que usan comunidades o procesos participativos?
+Autenticación: Mediante mecanismos seguros, se garantiza que quienes participan son quienes dicen ser (evitando bots o suplantación de identidad), lo cual es crítico para que la deliberación sea genuina y representativa de la comunidad.
+
+La seguridad digital convierte una "plataforma tecnológica" en un "espacio seguro de participación". Sin ella, la tecnología deja de ser un habilitador y se convierte en un riesgo que puede fragmentar a la comunidad y distorsionar la voluntad colectiva.
